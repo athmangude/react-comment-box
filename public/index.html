@@ -33,7 +33,8 @@
           render: function () {
               return (
                 <div className="CommentList">
-                    Hello, world! I am a CommentList.
+                    <Comment author="Athman Gude">This is one of the comments</Comment>
+                    <Comment author="Ronnie Nyaga">This is *another* of the comments</Comment>
                 </div>
               );
           }
@@ -59,7 +60,7 @@
               );
           }
       });
-      
+
       React.render(
           <CommentBox />, document.getElementById('content')
       );
