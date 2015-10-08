@@ -1,13 +1,5 @@
 [
     {
-        "author": "Pete Hunt",
-        "text": "Hey there!"
-    },
-    {
-        "author": "Paul O’Shannessy",
-        "text": "React is *great*!"
-    },
-    {
         "author": "Athman Gude",
         "text": "I am loving *React*!"
     },
@@ -30,5 +22,9 @@
     {
         "author": "William Wamwalo",
         "text": "I was working with React 10 years ago"
+    },
+    {
+        "author": "Brenda Njeri",
+        "text": "Wow! What is React?"
     }
 ]
